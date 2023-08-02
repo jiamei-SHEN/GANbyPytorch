@@ -13,7 +13,7 @@ image_size = [1, 28, 28]
 class Generator(nn.Module):
 
     # 定义一系列模块
-    # in_dim:z的输入维度
+    # input_dim: z的输入维度
     def __init__(self, input_dim):
         # 继承自nn.Module，所以需要对父类实例化
         super(Generator, self).__init__()
