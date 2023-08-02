@@ -1,5 +1,5 @@
 # GANbyPytorch
-An implementation of GAN using Pytorch.
+An implementation of GAN using Pytorch on MNIST.
 
 ![sample_from_testgan.png](samples%2Fsample_from_testgan.png)
 
