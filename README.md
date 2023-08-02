@@ -3,6 +3,7 @@ An implementation of GAN using Pytorch.
 
 ![sample_from_testgan.png](samples%2Fsample_from_testgan.png)
 
+## 中文说明
 [test_gan.py](test_gan.py) 大体是根据 [B站课程](https://www.bilibili.com/video/BV1VT4y1e796/?spm_id_from=333.337.search-card.all.click&vd_source=c960549e8f49b2d8be21a60e6bbd2280)
 自己写的，有一些小小的改动。
 
@@ -15,7 +16,7 @@ An implementation of GAN using Pytorch.
 分别是 [test_gan.py](test_gan.py) 和 [gan_from_github.py](gan_from_github.py) 的输出结果。
 
 
-
+## English README
 [test_gan.py](test_gan.py) is written following [Bilibili Video](https://www.bilibili.com/video/BV1VT4y1e796/?spm_id_from=333.337.search-card.all.click&vd_source=c960549e8f49b2d8be21a60e6bbd2280)
 with a little modification.
 
